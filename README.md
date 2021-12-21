@@ -19,7 +19,6 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 cd kodluyoruzilkrepo 
 code .
 ```
-
 ## Contributing
 
 Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi değiştirmek <br/>
