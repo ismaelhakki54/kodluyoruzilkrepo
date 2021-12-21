@@ -20,4 +20,4 @@ istediğinizi tartışmak için bir konu açınız.
 ## License
 [MIT](https://www.mit.edu/~amini/LICENSE.md)
 
-<code> git clone 
+<code> git clone https://github.com/ismaelhakki54/kodluyoruzilkrepo.git
